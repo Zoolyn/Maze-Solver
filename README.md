@@ -1,8 +1,10 @@
 ## Things needed to run:
--Python 3.7.1
+-Python 3.7.1 <br>
 -install pygame module for python (used for visualizing the gridworld, the final path, and adding user keyboard button input)
-	-pip install pygame
-	-https://www.pygame.org/wiki/GettingStarted
+<ol>
+<li>pip install pygame</li>
+<li>https://www.pygame.org/wiki/GettingStarted</li>
+</ol> 
 
 ## Included Python files:
 ### GridBuilder.py:
